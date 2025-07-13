@@ -177,6 +177,7 @@ main {
         gap: 100px;
         justify-content: center;
         align-items: center;
+        user-select: none;
     }
 
     .nav__logo {
