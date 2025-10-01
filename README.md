@@ -1,5 +1,5 @@
 # RobTop Games
-A reimagination of RobTop Games' Website (at robtopgames.com/), made from scratch.
+A reimagination of RobTop Games' Website (at robtopgames.com), made from scratch.
 
 ![robtoprevised](https://raw.githubusercontent.com/hoangnamdev/RobTopGames-website/refs/heads/main/Visualizer.PNG)
 
